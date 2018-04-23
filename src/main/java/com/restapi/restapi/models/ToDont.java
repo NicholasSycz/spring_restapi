@@ -10,7 +10,6 @@ public class ToDont {
 	String name;
 	String toDont;
 
-	// ask Dr. Smith why Spring would require an additional dummy constructor
 	public ToDont() {
 	}
 	
